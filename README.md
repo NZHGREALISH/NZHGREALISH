@@ -2,7 +2,7 @@
 
 - 👀 **Interests:** NBA (Jayson Tatum 🏀), Football (Man City & England ⚽), F1 (Charles Leclerc 🏎️), MLB (Blue Jays ⚾), CS (Spirit & Falcons)
 - 🌱 **Currently learning:** Machine Learning, LLM, AI Agents
-- 💞️ **Looking to collaborate on:** ML/AI projects
+- 💞️ **Looking to collaborate on:** ML research projects
 - 📫 **Reach me:** zhenghao.ni@mail.utoronto.ca
 
 
