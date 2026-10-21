@@ -1,9 +1,5 @@
-# 👋 Hi, I'm GREALISH
 
-- 👀 **Interests:** NBA (Jayson Tatum 🏀), Football (Man City & England ⚽), F1 (Charles Leclerc 🏎️), CS (Spirit & Falcons)
-- 🌱 **Currently learning:** Machine Learning, LLM, AI Agents
-- 💞️ **Looking to collaborate on:** ML research projects
-- 📫 **Reach me:** zhenghao.ni@mail.utoronto.ca
+-  **Reach me:** zhenghao.ni@mail.utoronto.ca
 
 
 <!---
